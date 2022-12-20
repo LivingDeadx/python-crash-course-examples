@@ -1,0 +1,5 @@
+# Create a list from 1 - 1,000,000 and use min(), max(), and sum()
+numbers = list(range(1, 1000001))
+print(min(numbers))
+print(max(numbers))
+print(sum(numbers))
