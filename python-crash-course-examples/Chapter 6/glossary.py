@@ -10,6 +10,7 @@ glossary = {
 	'CamelCase': 'Practice of typing value names in a style that capitalizes every first letter without spaces or punctuation.',
 	'snake_case': 'Practice of typing value names in a style that puts a underscore after every word instead of spaces.',
 	'List': 'Collection which is ordered and changeable. Allows duplicate members.',
+	'Dictionary': 'Collection of Key-Value pairs which each pair matches a key to its associated value.'
 }
 
 # Now print out each entry in the glossary with their meaning
